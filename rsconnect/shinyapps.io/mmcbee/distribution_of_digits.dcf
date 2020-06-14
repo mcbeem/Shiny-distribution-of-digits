@@ -1,0 +1,12 @@
+name: distribution_of_digits
+title: distribution_of_digits
+username:
+account: mmcbee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2449111
+bundleId: 3269336
+url: https://mmcbee.shinyapps.io/distribution_of_digits/
+when: 1592171327.3179
+asMultiple: FALSE
+asStatic: FALSE
